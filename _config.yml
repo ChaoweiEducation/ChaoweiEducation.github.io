@@ -22,7 +22,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
+email: chaoweieducation@163.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
@@ -38,16 +38,22 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 超维教育
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: 超维教育
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: 超维教育小邓老师。联系电话：13086638685，我们竭诚为您服务.
+
+我们的服务业务如下：
+
+一般项目：教育咨询服务（不含涉许可审批的教育培训活动）；商标代理；知识产权服务（专利代理服务除外）；组织文化艺术交流活动；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；互联网销售（除销售需要许可的商品）；财务咨询；健康咨询服务（不含诊疗服务）。
+
+如果您有需要，请及时联系我们，联系电话：13086638685，我们竭诚为您服务.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://chaoweieducation.github.io/
 
 # SASS
 sass:
